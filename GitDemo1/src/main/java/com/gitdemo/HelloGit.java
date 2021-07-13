@@ -6,6 +6,8 @@ public class HelloGit {
 		
 		System.out.println("Hi...!! This is Git Demo");
 		
+		System.out.println("Hi...!! Changes Commited");
+		
 
 	}
 
