@@ -8,9 +8,7 @@ public class HelloGit {
 		
 		System.out.println("Hi...!! Changes Commited Successfully");
 		
-		System.out.println("Hi...!! this is 2nd changes");
-		
-
+		System.out.println("Changes from MyBranch");
 	}
 
 }
